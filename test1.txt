@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is 6ABC-FD08
+
+ Directory of C:\Users\Komil_Dell\Desktop\MyGitproject
+
+03/30/2020  05:17 PM    <DIR>          .
+03/30/2020  05:17 PM    <DIR>          ..
+03/30/2020  05:17 PM    <DIR>          .git
+03/30/2020  05:17 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  235,877,818,368 bytes free
